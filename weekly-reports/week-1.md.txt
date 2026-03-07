@@ -1,0 +1,33 @@
+# Đề Xuất Đề Tài BTL - Trí tuệ nhân tạo
+## 1. Thông tin nhóm
+- Nhóm: 20
+- Thành viên: 
+2354050067 - Đặng Nhật Minh
+2251052017 - Phan Lợi Dĩ
+2351050053 - Hồ Nhật Huy
+2351050004 - Trần Khánh An
+- GVHD: Võ Việt Khoa
+## 2. Đề tài chọn
+- **Đề tài số:** 6
+- **Tên: Loan Default Prediction** 
+- **Loại bài toán:** Classification
+- **Dataset:** [Kaggle](https://www.kaggle.com/datasets/nikhil1e9/loan-default)
+## 3. Mục tiêu
+- Xây dựng mô hình Machine Learning dự báo rủi ro vỡ nợ của khách hàng dựa trên dữ liệu thu nhập, khoản vay và lịch sử tín dụng để hỗ trợ các tổ chức tài chính trong việc ra quyết định cho vay.
+## 4. Công nghệ dự kiến 
+- ML: Python, sklearn, Jupyter, wandb
+- Frontend: ReactJS
+- Backend: FastAPI
+- **DB:** SQL Server
+## 5. Phân công công việc
+| Thành viên | Công việc chính | Timeline |
+|Đặng Nhật Minh|ML/BE/PM/Báo cáo|Tuần 9|
+|Phan Lợi Dĩ|ML/BE|Tuần 8|
+|Hồ Nhật Huy|FE/ML|Tuần 8|
+|Trần Khánh An|FE/BE/ML|Tuần 8|
+## 6. Timeline
+- Tuần 1–2: Khởi động, EDA
+- Tuần 3–4: Preprocessing, Modeling
+- Tuần 5–6: Model + Persistence, wandb
+- Tuần 7–8: FE + BE, Demo, Báo cáo
+- Tuần 9–10: Nộp bài, Bảo vệ
